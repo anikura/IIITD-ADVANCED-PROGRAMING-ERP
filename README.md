@@ -37,8 +37,8 @@ The application is provided as a single, self-contained executable JAR (built us
 | Role | Username | Password | Notes |
 | :--- | :--- | :--- | :--- |
 | **Admin** | `admin1` | `password123` | Full system control. |
-| **Instructor** | `inst1` | `password123` | Assigned to all initial sections. |
-| **Student** | `stu1` | `password123` | Used for acceptance tests. |
+| **Instructor** | `inst1` | `temp123` | Assigned to all initial sections. |
+| **Student** | `stu1` | `temp123` | Used for acceptance tests. |
 | **Temporary** | (Any user) | `temp123` | Temporary password after an Admin forces a reset. |
 
 ***
