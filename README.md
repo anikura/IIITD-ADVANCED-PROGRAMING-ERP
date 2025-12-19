@@ -1,5 +1,13 @@
 # University ERP Desktop Application (AP Final Project)
 
+## 📺 Project Demonstration
+<video src="https://github.com/anikura/IIITD-ADVANCED-PROGRAMING-ERP/raw/main/AP_VEDIO.mp4" width="100%" controls>
+  Your browser does not support the video tag. You can view the video directly at: 
+  https://github.com/anikura/IIITD-ADVANCED-PROGRAMING-ERP/blob/main/AP_VEDIO.mp4
+</video>
+
+---
+
 This project is a secure, role-based desktop application developed using Java Swing and MySQL, designed to manage academic sections, enrollments, and grading for a university department.
 
 ### 1. Prerequisites
